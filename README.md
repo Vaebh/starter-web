@@ -2,7 +2,7 @@
 
 Adding a line for rebasing example.
 
-This repository is for showing how Git and GitHub work
+ Then more changes from myfeature branch too.This repository is for showing how Git and GitHub work
 
 ## Purpose
 
